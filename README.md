@@ -24,3 +24,4 @@ Sometimes I speak:
 - HashiTalks Secure 2024: **Unlocking privileged access management: HCP Boundary with Terraform** [YouTube](https://www.youtube.com/watch?v=Y62Wap4B9rI)
 - HashiConf 2024: **Build a self-service access management solution with GitHub and Boundary** [YouTube](https://www.youtube.com/watch?v=h2UxyeaXr-Q)
 - HashiConf 2025: **Infrastructure and application landing zones on HCP** [YouTube](https://www.youtube.com/watch?v=vVbTgz54plk)
+- HashiTalks 2026: **Developer self-service through the lens of Minecraft** [YouTube](https://www.youtube.com/watch?v=LsNP1T0y7XY)
