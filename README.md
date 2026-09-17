@@ -1,15 +1,15 @@
 ## Welcome!
 
-Welcome to my personal GitHub profile.
+Welcome to my personal GitHub profile 👋
 
-I do most of my writing at my blog [mattias.engineer](https://mattias.engineer/)
+I do most of my writing over at my blog [mattias.engineer](https://mattias.engineer/), check it out!
 
 ### 📕 Terraform Authoring and Operations Professional Study Guide
 
 If you are looking for my book, you can purchase a copy here:
 
-- [AWS edition](https://leanpub.com/terraform-professional-certification)
-- [Azure edition](https://leanpub.com/terraform-professional-certification-azure)
+- [AWS edition](https://www.packtpub.com/en-us/product/terraform-authoring-and-operations-professional-study-guide-aws-edition-9781807784744) (Packt Publishing), also available at [Amazon](https://www.amazon.com/dp/1807784754/)
+- [Azure edition](https://leanpub.com/terraform-professional-certification-azure) (self-published, Leanpub)
 
 Related links for the book:
 
